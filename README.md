@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Nazmus Sakib
 
-<!--
-**sakib7/sakib7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring IT professional specializing in Computer Engineering**  
+🎓 **Master's Student at Åbo Akademi University, Turku, Finland**  
+💻 **Former Software Engineer at BRAC IT**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+I am passionate about solving real-world problems using technology. My expertise spans software development, machine learning, and data engineering. I enjoy collaborating on innovative projects that make an impact.
+
+- 🌟 **Strengths:** Full-stack development, Data visualization, and ETL pipelines  
+- 💡 **Currently Learning:** Advanced Machine Learning & Cloud Computing  
+
+---
+
+### 🛠️ Skills at a Glance
+- **Programming Languages:** Java, Python, JavaScript, C/C++, SQL, and more  
+- **Web Development:** React, Next.js, Django, ASP.NET  
+- **Data Science & Engineering:** Scikit-Learn, Pandas, Spark, Databricks  
+- **Tools:** Docker, Git, Azure, AWS  
